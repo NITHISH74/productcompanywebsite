@@ -347,7 +347,6 @@ Publish the website in the given URL.
         <div class="menuitem"><a href="/static/products.html">Products</a>
         </div>
         <div class="menuitem"><a href="/static/People.html">People</a></div>
-
         <div class="menuitemselected"><a href="/static/Contact us.html">Contact Us</a></div>
       </div>
       <div class="content">
@@ -357,13 +356,17 @@ Publish the website in the given URL.
            <b><br> Sales and Product Inquiries</br>
            <br> Rockstar Private Limited website is a convenient place to purchase Rockstar products and accessories</br>
            <br> You can buy online or call 1-866-922-8694---.<br/>
-
             You can get information about an order you placed on the DCT Online Store through the Order Status page.</br>
             If you prefer, you can also get order status or make changes by phone at 1-866-922-8694 ----.</br></b>
-            
              <b> <br>Email: support@rockstargames.com</br>
               <br>Phone: 1-866-922-8694</br>
-              <br>Address: Anna Nagar</br></b>
+              <br>Address: Anna Nagar</br>
+               <br>whatsapp contact details:</br>
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/qrcode.png"  alt="image">
+                </div>
+                <div class="itemname"><b>for more details contact to this bot</b></div></b>
           </div>
         </div>
        
