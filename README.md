@@ -586,16 +586,14 @@ body {
 ![image](https://user-images.githubusercontent.com/94164665/146777965-08b1ca8d-9386-4d13-a87c-3aeb5e76c036.png)
 
 ### product page:
-![image](https://user-images.githubusercontent.com/94164665/146778067-4eeeddea-bd67-408a-bbab-7e00c201872c.png)
+![image](https://user-images.githubusercontent.com/94164665/146789918-ec417d8c-1c14-47ed-88b4-1961dd88b7bf.png)
 
 ### people page:
-![image](https://user-images.githubusercontent.com/94164665/146778004-8ff126a4-4774-4d9e-bf65-72ce6e348782.png)
+![image](https://user-images.githubusercontent.com/94164665/146789949-42f2c53a-018c-48ed-8142-01b42d1ead02.png)
 
 ### contact us page:
 
-
-![image](https://user-images.githubusercontent.com/94164665/146778036-c450c912-267a-47e3-b18e-37290e56ad92.png)
-
+![image](https://user-images.githubusercontent.com/94164665/146789986-ee0eb3e8-a69d-4e03-b715-a6e03b4836bd.png)
 
 
 ## Result:
