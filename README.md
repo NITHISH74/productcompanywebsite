@@ -36,6 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ### Home Page:
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -107,7 +108,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-### Products Page:
+
+
+### products page:
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -154,6 +157,79 @@ Publish the website in the given URL.
                 </div>
                 <div class="itemprice">price:$999 </div>
             </div>
+            <div class="productitem"> 
+              <div class="itemimage">
+              <img src="/static/img/rdr1.png" alt="product image">
+              </div>
+              <div class="itemname">Red Dead Redemption 
+              </div>                
+              <div class="itemprice">price:$2,499 </div>
+          </div>
+          <div class="productitem"> 
+              <div class="itemimage">
+              <img src="/static/img/gta3.png"  alt="product image">
+              </div>
+              <div class="itemname">Grand Theft Auto III
+              </div>
+              <div class="itemprice">price:$499 </div>
+          </div>
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/gtasa.png"  alt="product image">
+            </div>
+            <div class="itemname">Grand Theft Auto :San Andreas
+            </div>
+            <div class="itemprice">price:$999 </div>
+        </div>
+        <div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/gtavc.png" alt="product image">
+          </div>
+          <div class="itemname">Grand Theft Auto :Vice City
+          </div>                
+          <div class="itemprice">price:$399 </div>
+      </div>
+      <div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/bully.png"  alt="product image">
+          </div>
+          <div class="itemname">Bully
+          </div>
+          <div class="itemprice">price:$999 </div>
+      </div>
+      <div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/gtalcs.png"  alt="product image">
+        </div>
+        <div class="itemname">Grand Theft Auto :Liberty City Stories
+        </div>
+        <div class="itemprice">price:$999 </div>
+    </div>
+    <div class="productitem"> 
+      <div class="itemimage">
+      <img src="/static/img/rdo.png" alt="product image">
+      </div>
+      <div class="itemname">Red Dead Online
+      </div>                
+      <div class="itemprice">price:$2,999 </div>
+  </div>
+  <div class="productitem"> 
+      <div class="itemimage">
+      <img src="/static/img/mh2.png"  alt="product image">
+      </div>
+      <div class="itemname">Man Hunt 2
+      </div>
+      <div class="itemprice">price:$2,599 </div>
+  </div>
+  <div class="productitem"> 
+    <div class="itemimage">
+    <img src="/static/img/mp3.png"  alt="product image">
+    </div>
+    <div class="itemname">Max Payne 3
+
+    </div>
+    <div class="itemprice">price:$1,999 </div>
+</div>
             
             </div>
           </div>
@@ -170,7 +246,8 @@ Publish the website in the given URL.
     
   </body>
 </html>
-### People Page:
+
+### people pages:
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -227,7 +304,7 @@ Publish the website in the given URL.
           <div class="itemimage">
           <img src="/static/img/manoj.png"  alt="image">
           </div>
-          <div class="itemname">Monoj kumar</div>
+          <div class="itemname">Manoj kumar</div>
           <div class="itemprice">senior vice president : Internet Software and Services</div>
       </div>
       <div class="productitem"> 
@@ -251,7 +328,9 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-### Conduct us Page:
+
+
+### contact us page:
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -289,25 +368,22 @@ Publish the website in the given URL.
         </div>
        
               </div>
-              
               <div class="footer">
-              
                 Copyright &#169; 2021 Rockstar Private Limited, Developed by Nithiswar
                  s
               </div>
-              
               <div><h2><marquee>Thank For Visiting Our Page</marquee</h2></div>
 
           </div>
-          
-          </div>  
-          
+          </div>        
       </div>
 
     </div>
   </body>
 </html>
-###layout.css
+
+
+### layout css page:
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
@@ -503,23 +579,15 @@ body {
   margin-left: -800px;
 }
 
+## Output:
+### home page:
 
+### product page:
 
+### people page:
 
+### contact us page:
 
-
-
-## OUTPUT:
-
-### Home Page:
-
-![image](https://user-images.githubusercontent.com/94164665/146682025-a2a3ffb1-01e2-4c4e-b626-d6a2ddb5cb48.png)
-### Products Page:
-![image](https://user-images.githubusercontent.com/94164665/146682037-c893ee40-96ea-4c92-9d7c-f24252c2fe27.png)
-### People Page:
-![image](https://user-images.githubusercontent.com/94164665/146682052-b85bfada-8239-4482-acb6-dd380d98a5c9.png)
-### Conduct us Page:
-![image](https://user-images.githubusercontent.com/94164665/146682070-fbe706c1-82ba-4a7b-bc6a-57e708af2a0d.png)
 
 
 
