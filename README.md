@@ -43,11 +43,7 @@ Publish the website in the given URL.
     <title>Rockstar Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/download.png" type="image/x-icon" />
-  </head>
- 
- 
-      
-
+  </head> 
   <body>
     <div class="container">
       <div class="banner"></div>
@@ -111,6 +107,7 @@ Publish the website in the given URL.
 
 
 ### products page:
+  
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -248,6 +245,8 @@ Publish the website in the given URL.
 </html>
 
 ### people pages:
+  
+  
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -331,6 +330,7 @@ Publish the website in the given URL.
 
 
 ### contact us page:
+  
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -369,7 +369,6 @@ Publish the website in the given URL.
                 <div class="itemname"><b>for more details contact to this bot</b></div></b>
           </div>
         </div>
-       
               </div>
               <div class="footer">
                 Copyright &#169; 2021 Rockstar Private Limited, Developed by Nithiswar
@@ -380,13 +379,13 @@ Publish the website in the given URL.
           </div>
           </div>        
       </div>
-
     </div>
   </body>
 </html>
 
 
 ### layout css page:
+
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
@@ -584,14 +583,18 @@ body {
 
 ## Output:
 ### home page:
+![image](https://user-images.githubusercontent.com/94164665/146777965-08b1ca8d-9386-4d13-a87c-3aeb5e76c036.png)
 
 ### product page:
+![image](https://user-images.githubusercontent.com/94164665/146778067-4eeeddea-bd67-408a-bbab-7e00c201872c.png)
 
 ### people page:
+![image](https://user-images.githubusercontent.com/94164665/146778004-8ff126a4-4774-4d9e-bf65-72ce6e348782.png)
 
 ### contact us page:
 
 
+![image](https://user-images.githubusercontent.com/94164665/146778036-c450c912-267a-47e3-b18e-37290e56ad92.png)
 
 
 
