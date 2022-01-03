@@ -20,7 +20,7 @@ Updating the sample content.
 
 ### Step 4:
 
-Choose the appropriate style and color scheme.
+Choose the appropriate style and color scheme.  
 
 ### Step 5:
 
