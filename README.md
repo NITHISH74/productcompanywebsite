@@ -96,8 +96,8 @@ Publish the website in the given URL.
       </div>
 
       <div class="footer">
-        Copyright &#169; 2021 Rockstar Private Limited, Developed by Nithiswar
-         s
+        Copyright &#169; 2021 Rockstar Private Limited, Developed by Bairavskandan
+         
       </div>
       <div><h2><marquee>Thank For Visiting Our Page</marquee</h2></div>
 
@@ -232,8 +232,8 @@ Publish the website in the given URL.
           </div>
           </div> 
           <div class="footer">
-            Copyright &#169; 2021 Rockstar Private Limited, Developed by Nithiswar
-             s
+            Copyright &#169; 2021 Rockstar Private Limited, Developed by Bairavskandan
+             
           </div>
           <div><h2><marquee>Thank For Visiting Our Page</marquee</h2></div>    
       </div>
@@ -315,8 +315,8 @@ Publish the website in the given URL.
     </div>
               </div>
               <div class="footer">
-                Copyright &#169; 2021 Rockstar Private Limited, Developed by Nithiswar
-                 s
+                Copyright &#169; 2021 Rockstar Private Limited, Developed by Bairavskandan
+                 
               </div>    
               <div><h2><marquee>Thank For Visiting Our Page</marquee</h2></div>
           </div>
@@ -371,8 +371,8 @@ Publish the website in the given URL.
         </div>
               </div>
               <div class="footer">
-                Copyright &#169; 2021 Rockstar Private Limited, Developed by Nithiswar
-                 s
+                Copyright &#169; 2021 Rockstar Private Limited, Developed by Bairavskandan
+                 
               </div>
               <div><h2><marquee>Thank For Visiting Our Page</marquee</h2></div>
 
