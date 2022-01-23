@@ -36,6 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ### Home Page:
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -104,10 +105,10 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 
 ### products page:
-  
+```  
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -243,9 +244,9 @@ Publish the website in the given URL.
     
   </body>
 </html>
-
+```
 ### people pages:
-  
+  ```
   
 <!DOCTYPE html>
 <html lang="en">
@@ -327,10 +328,10 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 
 ### contact us page:
-  
+  ```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -382,10 +383,10 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 
 ### layout css page:
-
+```
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
@@ -580,7 +581,7 @@ body {
 #radio3:checked ~ .first{
   margin-left: -800px;
 }
-
+```
 ## Output:
 ### home page:
 ![image](https://user-images.githubusercontent.com/94164665/146777965-08b1ca8d-9386-4d13-a87c-3aeb5e76c036.png)
