@@ -36,7 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ### Home Page:
-```
+```html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -108,7 +108,7 @@ Publish the website in the given URL.
 ```
 
 ### products page:
-```  
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -246,7 +246,7 @@ Publish the website in the given URL.
 </html>
 ```
 ### people pages:
-  ```
+  ```html
   
 <!DOCTYPE html>
 <html lang="en">
@@ -331,7 +331,7 @@ Publish the website in the given URL.
 ```
 
 ### contact us page:
-  ```
+  ```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
