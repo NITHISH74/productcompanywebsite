@@ -386,7 +386,7 @@ Publish the website in the given URL.
 ```
 
 ### layout css page:
-```
+```css
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
